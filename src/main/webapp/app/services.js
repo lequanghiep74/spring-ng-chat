@@ -59,7 +59,7 @@
             socket.stomp.connect({}, startListener);
 
         };
-
+    //hello
         initialize();
         return service;
     });
